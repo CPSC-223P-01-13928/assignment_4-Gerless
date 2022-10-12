@@ -33,5 +33,5 @@ while(True):
     elif mychoice == 4:
         display = report_historical(data = weather)
         print(display)
-    elif choice == 9:
+    elif mychoice == 9:
         break
